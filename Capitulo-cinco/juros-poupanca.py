@@ -1,5 +1,5 @@
 deposito_poupanca = float(input("Quanto você gostaria de depositar?: "))
-taxa_juros = float(input("Qual valor da tada de juros? "))
+taxa_juros = float(input("Qual valor da taxa de juros? "))
 
 valor_inicial = deposito_poupanca
 contador = 1
