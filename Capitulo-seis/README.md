@@ -7,4 +7,4 @@
 - Programa faz a leitura de duas listas e gera uma terceira com os elementos das duas primeiras
 
 ### Exercício 6.3
-- Programa pecorre duas listas e gera uma terceira sem elementos repetidos
+- Programa pecorre duas listas e gera uma terceira sem elementos repetidos.
